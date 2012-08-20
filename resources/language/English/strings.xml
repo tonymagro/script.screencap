@@ -1,0 +1,13 @@
+<strings>
+    <string id="30000">Consumer Key</string>
+    <string id="30001">Consumer Secret</string>
+    <string id="30002">OAuth Token</string>
+    <string id="30003">OAuth Token Secret</string>
+    <string id="30004">Service Key</string>
+    <string id="30005">Twitpic Email</string>
+    <string id="30006">Email Address</string>
+    <string id="30007">SMTP Server</string>
+    <string id="30008">SMTP Port</string>
+    <string id="30009">Use SSL</string>
+    <string id="30010">TwitPic API</string>
+</strings>

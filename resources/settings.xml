@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <category label="30010">
+	   <setting id="consumer_key" type="text" label="30000" default=""/>
+	   <setting id="consumer_secret" type="text" label="30001" default=""/>
+	   <setting id="oauth_token" type="text" label="30002" default=""/>
+	   <setting id="oauth_token_secret" type="text" label="30003" default=""/>
+	   <setting id="service_key" type="text" label="30004" default=""/>
+   </category>
+   <category label="30005">
+	   <setting id="twitpic_email" type="text" label="30006" default=""/>
+	   <setting id="smtp_server" type="text" label="30007" default=""/>
+	   <setting id="smtp_port" type="text" label="30008" default="25"/>
+	   <setting id="smtp_use_ssl" type="bool" label="30009" default="true"/>
+   </category>
+</settings>
